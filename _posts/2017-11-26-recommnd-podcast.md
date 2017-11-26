@@ -1,5 +1,5 @@
 ---
-title: "推荐一下我听过的 Podcast"
+title: "推荐一些我听过的 Podcast"
 layout: post
 date: 2017-11-26
 headerImage: false
@@ -11,8 +11,6 @@ category: blog
 author: Nate Yu
 description: Recommnd some podcast I listened
 ---
-
-### 推荐一下我听过的 Podcast
 
 自从公司迁址后的半年内，每天通勤时间有两个多小时，于是捡起了很久没听的 podcast，发现了不少优质的内容，下面给大家推荐一些我觉得不错的 podcast。
 
