@@ -1,5 +1,15 @@
 ---
-typora-copy-images-to: ipic
+title: "推荐一下我听过的 Podcast"
+layout: post
+date: 2017-11-26
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: Nate Yu
+description: Recommnd some podcast I listened
 ---
 
 ### 推荐一下我听过的 Podcast
